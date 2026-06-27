@@ -19,8 +19,14 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Publish a shorter newsletter intro with 3-5 strong excerpts.
 - Link to the owned page as the full read using the Substack tracked link.
 - Suggested subject: `Heavy is the crown, but Brunson wore it like a fitted`
-- Current status: suspension notice is no longer visible after clearing Substack-only browser data.
+- Current status: public pages and section pages load, but the dashboard/settings still showed a suspension banner during setup. Treat the account as usable for organization/drafting only until Substack confirms the restriction is fully gone.
 - Process rule: Codex prepares Substack drafts only. Kali reviews and publishes manually. Codex does not click Publish, Send, or Schedule on Substack.
+- Umbrella publication: `Kali Artistry Dispatch`
+- Sections:
+  - `The Crown Journal`: `https://kaliartistry.substack.com/s/the-crown-journal`
+  - `CruiseKit`: `https://kaliartistry.substack.com/s/cruisekit`
+  - `EventSync Field Notes`: `https://kaliartistry.substack.com/s/eventsync-field-notes`
+  - `Kali Artistry Photography`: `https://kaliartistry.substack.com/s/kali-artistry-photography`
 
 ## Reddit
 

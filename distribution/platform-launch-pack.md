@@ -45,6 +45,21 @@ Suggested hashtags:
 Process rule:
 Codex prepares Substack drafts only. Kali reviews and publishes manually. Codex does not click Publish, Send, or Schedule on Substack.
 
+Publication:
+Kali Artistry Dispatch
+
+Use section:
+The Crown Journal
+
+Substack section map:
+- The Crown Journal: https://kaliartistry.substack.com/s/the-crown-journal
+- CruiseKit: https://kaliartistry.substack.com/s/cruisekit
+- EventSync Field Notes: https://kaliartistry.substack.com/s/eventsync-field-notes
+- Kali Artistry Photography: https://kaliartistry.substack.com/s/kali-artistry-photography
+
+Account status note:
+Public pages and section pages load, but the dashboard/settings still showed a suspension banner during setup. Treat Substack as organization/drafting only until Substack confirms the restriction is fully cleared.
+
 Subject:
 Heavy is the crown, but Brunson wore it like a fitted
 
