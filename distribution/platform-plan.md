@@ -27,6 +27,7 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Post as a discussion, not a link dump.
 - Lead with the argument and ask whether Knicks fans felt this before the title.
 - Only include the Reddit tracked link if allowed.
+- For r/NYKnicks specifically, rules include no self-promotion without active participation and no advertising/blogspam, so use the daily discussion thread or a native text discussion first unless Kali is already an active participant there.
 
 ## Instagram
 

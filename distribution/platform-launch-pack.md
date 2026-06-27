@@ -133,6 +133,8 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?ut
 
 ## Reddit Discussion Draft
 
+Use this only after confirming the account has enough active participation for r/NYKnicks. Otherwise, use the daily discussion thread and omit the link unless asked.
+
 Title:
 Long-form Knicks essay: why New York trusted Brunson before the country caught up
 
