@@ -78,6 +78,17 @@ Suggested hashtags:
 Bio/story link:
 https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=instagram&utm_medium=bio&utm_campaign=crown_journal_launch
 
+Carousel assets:
+- `distribution/social-assets/instagram-carousel/slide-01.png`
+- `distribution/social-assets/instagram-carousel/slide-02.png`
+- `distribution/social-assets/instagram-carousel/slide-03.png`
+- `distribution/social-assets/instagram-carousel/slide-04.png`
+- `distribution/social-assets/instagram-carousel/slide-05.png`
+- `distribution/social-assets/instagram-carousel/slide-06.png`
+- `distribution/social-assets/instagram-carousel/slide-07.png`
+- `distribution/social-assets/instagram-carousel/slide-08.png`
+- `distribution/social-assets/instagram-carousel/slide-09.png`
+
 ## Instagram Story Frames
 
 Frame 1:
