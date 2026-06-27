@@ -4,6 +4,8 @@ Article link:
 
 https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
 
+Tracked distribution links live in `distribution/tracked-links.md`.
+
 ## Instagram Launch
 
 Heavy is the crown, but Jalen Brunson wore it like a fitted.
@@ -32,7 +34,7 @@ Core line:
 "People outside the city call it panic because they do not understand the language. New Yorkers call it accountability."
 
 Full essay:
-https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=linkedin&utm_medium=social&utm_campaign=crown_journal_launch
 
 ## Reddit Discussion Draft
 

@@ -22,7 +22,11 @@ Core line:
 
 Read the full essay:
 
-https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=zenfolio&utm_medium=bridge_page&utm_campaign=crown_journal_launch
+
+Tracking note:
+
+Kali Artistry's Zenfolio site already loads GA4 measurement ID `G-VDK00FP55M`. The Crown Journal static site uses that same measurement ID so bridge-page traffic and article traffic land in the same GA4 property.
 
 Note:
 

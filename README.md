@@ -15,6 +15,7 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
 - DNS target: `kaliartistry.github.io`
 - Main article route: `/heavy-is-the-crown-brunson-wanted-the-smoke/`
 - Hero image: original generated editorial visual, no NBA/Knicks logos, no player likeness, no official uniform marks
+- Analytics: GA4 measurement ID `G-VDK00FP55M`, matching Kali Artistry's Zenfolio tracking
 
 ## Local Preview
 
@@ -41,3 +42,5 @@ Editorial feedback by Daoud Mansour
 ## Distribution
 
 Launch assets live in `distribution/`.
+
+Use `distribution/tracked-links.md` for UTM-tagged links. Keep the clean production URL as the canonical URL.
