@@ -11,13 +11,15 @@ https://journal.kaliartistry.com/
 ## Priority Order
 
 1. LinkedIn
-2. Substack
-3. Instagram
-4. Facebook
-5. Reddit
-6. Medium, only if canonical repost still fits the strategy
-7. Tumblr, optional extra
-8. LiveJournal, hold unless there is a specific community reason
+2. Instagram
+3. Facebook
+4. Reddit
+5. Bluesky, optional if the account exists
+6. Tumblr, optional extra
+7. Pinterest, optional visual backlink
+8. Medium, only if canonical repost still fits the strategy
+9. Substack, blocked until the account suspension is resolved
+10. LiveJournal, hold unless there is a specific community reason
 
 Do not use X/Twitter or Threads.
 
@@ -119,6 +121,16 @@ Core line:
 Read it here:
 https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=facebook&utm_medium=social&utm_campaign=crown_journal_launch
 
+## Bluesky Optional Post
+
+I published the first essay for The Crown Journal by Kali Artistry.
+
+A New York sports-culture piece on Brunson, the Knicks, pressure, accountability, and why the city knew early.
+
+"Heavy is the crown, but Jalen Brunson wore it like a fitted."
+
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=bluesky&utm_medium=social&utm_campaign=crown_journal_launch
+
 ## Reddit Discussion Draft
 
 Title:
@@ -169,6 +181,19 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?ut
 
 Tags:
 #knicks #new york knicks #nba #sports writing #new york #basketball
+
+## Pinterest Optional Pin
+
+Use one carousel image, preferably `distribution/social-assets/instagram-carousel/slide-01.png` or `distribution/social-assets/instagram-carousel/slide-04.png`.
+
+Title:
+Heavy Is The Crown. Brunson Wanted The Smoke.
+
+Description:
+A New York sports-culture essay from The Crown Journal by Kali Artistry on Jalen Brunson, pressure, accountability, Knicks history, and why the city knew early.
+
+Link:
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=pinterest&utm_medium=pin&utm_campaign=crown_journal_launch
 
 ## LiveJournal Hold
 

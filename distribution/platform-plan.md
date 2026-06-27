@@ -19,6 +19,7 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Publish a shorter newsletter intro with 3-5 strong excerpts.
 - Link to the owned page as the full read using the Substack tracked link.
 - Suggested subject: `Heavy is the crown, but Brunson wore it like a fitted`
+- Current status: blocked until the Substack suspension/appeal issue is resolved.
 
 ## Reddit
 
@@ -46,11 +47,23 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Keep the copy shorter than LinkedIn and lead with the emotion of New York finally exhaling.
 - If Instagram cross-posting to Facebook is enabled, use Meta's cross-posting flow for the carousel/reel instead of duplicating manually.
 
+## Bluesky
+
+- Optional if Kali has or wants a Bluesky account.
+- Use a short post with the core thesis and the Bluesky tracked link.
+- Treat it as a cleaner alternative to X/Twitter, not as a required launch channel.
+
 ## Tumblr
 
 - Optional extra channel.
 - Better fit than LiveJournal for a visual sports-culture quote post.
 - Use a text post or image post with 1-3 strong excerpts and the Tumblr tracked link.
+
+## Pinterest
+
+- Optional visual backlink using one of the carousel images.
+- Strongest fit if the pin is treated as a design/editorial asset, not a sports-news post.
+- Use the Pinterest tracked link.
 
 ## LiveJournal
 
