@@ -26,6 +26,9 @@ Use the canonical URL for Search Console, canonical tags, source notes, and form
 - Instagram bio: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=instagram&utm_medium=bio&utm_campaign=crown_journal_launch`
 - Instagram story: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=instagram&utm_medium=story&utm_campaign=crown_journal_launch`
 - LinkedIn: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=linkedin&utm_medium=social&utm_campaign=crown_journal_launch`
+- Facebook: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=facebook&utm_medium=social&utm_campaign=crown_journal_launch`
+- Tumblr: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=tumblr&utm_medium=microblog&utm_campaign=crown_journal_launch`
+- LiveJournal hold: `https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=livejournal&utm_medium=blog&utm_campaign=crown_journal_launch`
 
 ## GA4 Events
 

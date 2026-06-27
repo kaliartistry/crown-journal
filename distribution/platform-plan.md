@@ -39,6 +39,24 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Lead with pressure, accountability, public joy, and New York identity.
 - Use the LinkedIn tracked link.
 
+## Facebook
+
+- Post from Kali's personal profile or Kali Artistry page if available.
+- Use the Facebook tracked link.
+- Keep the copy shorter than LinkedIn and lead with the emotion of New York finally exhaling.
+- If Instagram cross-posting to Facebook is enabled, use Meta's cross-posting flow for the carousel/reel instead of duplicating manually.
+
+## Tumblr
+
+- Optional extra channel.
+- Better fit than LiveJournal for a visual sports-culture quote post.
+- Use a text post or image post with 1-3 strong excerpts and the Tumblr tracked link.
+
+## LiveJournal
+
+- Not recommended for this launch unless Kali specifically wants an archival blog presence there.
+- It still exists, but the audience fit is weaker than LinkedIn, Substack, Instagram, Facebook, Reddit, Medium, or Tumblr.
+
 ## Excluded
 
 - X/Twitter
