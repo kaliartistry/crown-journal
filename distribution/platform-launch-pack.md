@@ -18,7 +18,7 @@ https://journal.kaliartistry.com/
 6. Tumblr, optional extra
 7. Pinterest, optional visual backlink
 8. Medium, only if canonical repost still fits the strategy
-9. Substack, blocked until the account suspension is resolved
+9. Substack, draft-only and user-review required
 10. LiveJournal, hold unless there is a specific community reason
 
 Do not use X/Twitter or Threads.
@@ -41,6 +41,9 @@ Suggested hashtags:
 #NewYork #Knicks #SportsCulture #Storytelling #KaliArtistry
 
 ## Substack Draft
+
+Process rule:
+Codex prepares Substack drafts only. Kali reviews and publishes manually. Codex does not click Publish, Send, or Schedule on Substack.
 
 Subject:
 Heavy is the crown, but Brunson wore it like a fitted
@@ -208,3 +211,5 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?ut
 ## Publishing Rule
 
 Final Publish, Post, Share, Send, or Submit clicks should be confirmed in the browser before posting.
+
+Substack exception: even with confirmation, Codex should stop at a saved draft and leave publishing to Kali.

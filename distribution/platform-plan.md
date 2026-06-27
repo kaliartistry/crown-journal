@@ -19,7 +19,8 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 - Publish a shorter newsletter intro with 3-5 strong excerpts.
 - Link to the owned page as the full read using the Substack tracked link.
 - Suggested subject: `Heavy is the crown, but Brunson wore it like a fitted`
-- Current status: blocked until the Substack suspension/appeal issue is resolved.
+- Current status: suspension notice is no longer visible after clearing Substack-only browser data.
+- Process rule: Codex prepares Substack drafts only. Kali reviews and publishes manually. Codex does not click Publish, Send, or Schedule on Substack.
 
 ## Reddit
 
