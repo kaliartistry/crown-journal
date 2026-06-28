@@ -20,7 +20,10 @@ The in-app browser appears to stage one visible form tab at a time. Review, subm
 
 - Posting and Toasting: Chrome story-pitch form filled and waiting for user CAPTCHA/final Submit.
 - Knicks Fan TV: Chrome contact form filled and waiting for user CAPTCHA/final Send.
-- Do not open another automated form in Chrome until the user submits or closes these two handoff tabs.
+- Roommates Show: Chrome contact form filled and waiting for user final Submit.
+- Jalen Brunson official team: Chrome contact form filled under Media & Press Requests and waiting for user final Submit.
+- SNY: email to info1@sny.tv bounced with recipient address rejected / access denied; find an alternate SNY route before retrying.
+- Do not open another automated form in Chrome until the user submits or closes these handoff tabs.
 
 ## First Wave
 

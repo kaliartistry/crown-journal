@@ -112,6 +112,30 @@ Best,
 Kali McCarthy
 Kali Artistry
 
+## Jalen Team Pitch
+
+Subject: Heavy Is The Crown. Brunson Wanted The Smoke.
+
+Hi Jalen Brunson team,
+
+I'm Kali McCarthy, a New York photographer and writer. I published a long-form sports-culture essay through The Crown Journal by Kali Artistry about what Jalen Brunson means to New York.
+
+The piece is called "Heavy Is The Crown. Brunson Wanted The Smoke."
+
+It is not a recap. It is about New York pressure, accountability, sacrifice, Knicks history, the Garden, Game 4 vs. Wemby, and why Brunson connected with the city before the country caught up.
+
+Core line:
+"Heavy is the crown, but Jalen Brunson wore it like a fitted."
+
+I wanted to send it through the official route in case it is something Jalen's team would want to read or share internally.
+
+Full essay:
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
+
+Best,
+Kali McCarthy
+Kali Artistry
+
 ## Civic Pitch
 
 Subject: A Knicks essay about New York pressure, accountability, and the city exhaling
