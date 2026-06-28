@@ -23,6 +23,7 @@ The in-app browser appears to stage one visible form tab at a time. Review, subm
 - Roommates Show: Chrome contact form filled and waiting for user final Submit.
 - Jalen Brunson official team: Chrome contact form filled under Media & Press Requests and waiting for user final Submit.
 - SNY: email to info1@sny.tv bounced with recipient address rejected / access denied; find an alternate SNY route before retrying.
+- Gmail outreach confirmed sent: Hell Gate, The Ringer, New York Post, Newsday Opinion, MSG Networks, CBS News New York, Gothamist/WNYC, The City Reporter, Defector, and City & State New York.
 - Do not open another automated form in Chrome until the user submits or closes these handoff tabs.
 
 ## First Wave
@@ -100,15 +101,14 @@ The in-app browser appears to stage one visible form tab at a time. Review, subm
 ## Second Wave
 
 - NBA Contact Center: Clean Knicks/NBA Pitch via https://contact.nba.com/contact-nba/
-- MSG Sports / MSG Networks: Clean Knicks/NBA Pitch to info@msgnetworks.com
-- SNY: Clean Knicks/NBA Pitch to info1@sny.tv
-- CBS News New York: Civic or publication-safe pitch to desk@cbs2ny.com
-- CBS Sports Communications: Publication-safe pitch to JSabatelle@cbs.com only as a clean FYI
-- Gothamist / WNYC: Civic Pitch to tips@gothamist.com with caution that response is not guaranteed
-- The City Reporter: Civic Pitch to tips@thecityreporter.nyc or contact page
-- Defector: Defector Pitch to pitches@defector.com
+- NYC Mayor's Office: Mayor 500-character civic pitch via https://www.nyc.gov/mayors-office/contact-the-mayor
 - NY1: Civic Pitch through https://ny1.com/nyc/all-boroughs/about-us/contact-us
-- City & State New York: Civic Pitch to editor@cityandstateny.com
+- CBS Sports Communications: Publication-safe pitch to JSabatelle@cbs.com only as a clean FYI
+- Find alternate SNY route before retrying; do not reuse info1@sny.tv.
+- Knicks Film School: use Substack/official social route after login.
+- The Strickland: use official Instagram, Bluesky, or YouTube route; do not use X or Threads.
+- NBA/Knicks official orbit: use only official forms/routes; avoid guessed staff emails.
+- Social/content wave: LinkedIn, Instagram, Facebook, Reddit, Medium, Tumblr, Pinterest, and Substack draft-only.
 
 ## Hold / Manual Verification
 
