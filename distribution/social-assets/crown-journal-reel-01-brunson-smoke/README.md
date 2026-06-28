@@ -14,6 +14,8 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
 - `openai-reel-transcript.json` - word-level transcript used to drive card timing.
 - `audio-script-compare.json` - normalized script/transcript comparison.
 - `caption.txt` - Instagram caption draft.
+- `captions-platform-copy.md` - platform-specific copy for Instagram, Facebook, YouTube Shorts, and TikTok.
+- `reel-01-captions.srt` - clean sentence-level captions for platforms that support caption upload.
 - `timings.json` - on-screen card timing map.
 - `review-contact-sheet-clean.jpg` - visual review sheet from the corrected export.
 - `review-transition-sheet-clean.jpg` - transition review sheet from the corrected export.
