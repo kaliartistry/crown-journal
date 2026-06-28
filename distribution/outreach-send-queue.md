@@ -1,0 +1,106 @@
+# Outreach Send Queue
+
+Article:
+https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
+
+Rule:
+Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Schedule. Substack remains draft-only.
+
+## First Wave
+
+1. Roommates Show / Roommates Live
+   - Route: https://www.roommateslive.com/contact
+   - Pitch: Roommates Pitch
+   - Action: open contact route or official social route, fill message, stop before submit.
+   - Review note: do not ask them to publish. Ask them to read, react, or consider for the Roommates audience.
+
+2. Knicks Fan TV
+   - Route: https://shop.knicksfantv.com/pages/contact
+   - Pitch: Raw Knicks Pitch
+   - Action: fill contact form, stop before submit.
+   - Review note: strongest fan-media first-wave target.
+
+3. Knicks Fan TV Newsletter
+   - Route: https://knicksfantv.beehiiv.com/
+   - Pitch: Raw Knicks Pitch
+   - Action: use Knicks Fan TV contact route and mention newsletter/community read.
+   - Review note: no direct newsletter pitch email verified.
+
+4. Posting and Toasting
+   - Route: https://www.postingandtoasting.com/contact
+   - Pitch: Raw Knicks Pitch
+   - Action: use pitch/contact form, stop before submit.
+   - Review note: do not message multiple writers separately before using the form.
+
+5. Knicks Film School
+   - Route: https://knicksfilmschool.substack.com/about
+   - Pitch: KFS Pitch
+   - Action: use Substack/official social route only after login, stop before final send.
+   - Review note: no public pitch email verified.
+
+6. The Strickland
+   - Route: https://www.thestrick.land/
+   - Pitch: Raw Knicks Pitch
+   - Action: use homepage contact/contribution form, stop before submit.
+   - Review note: do not use X.
+
+7. Hell Gate
+   - Route: mailto:tips@hellgatenyc.com
+   - Pitch: Civic Pitch
+   - Action: create Gmail draft, stop before send.
+   - Review note: put PITCH in subject and lead with NYC public-joy/city-pressure angle.
+
+8. NYC Mayor's Office
+   - Route: https://www.nyc.gov/mayors-office/contact-the-mayor
+   - Pitch: Mayor 500-Character Civic Pitch
+   - Action: fill form, stop before submit.
+   - Review note: keep the message short and civic. Do not paste the full article.
+
+9. The Ringer
+   - Route: https://www.theringer.com/contact
+   - Pitch: Publication-Safe Pitch
+   - Action: use Pitch Us route or Gmail draft to editors@theringer.com, stop before send/submit.
+   - Review note: avoid leading with city-vs-city shots.
+
+10. New York Post
+    - Route: https://nypost.com/tips/
+    - Pitch: Publication-Safe Pitch
+    - Action: use tip form or draft to tips@nypost.com, stop before send/submit.
+    - Review note: link the live essay, do not paste the full text.
+
+11. Newsday Opinion
+    - Route: mailto:opinions@newsday.com
+    - Pitch: Publication-Safe Pitch
+    - Action: create Gmail draft, stop before send.
+    - Review note: present as an adaptable op-ed/essay.
+
+## Second Wave
+
+- NBA Contact Center: Clean Knicks/NBA Pitch via https://contact.nba.com/contact-nba/
+- MSG Sports / MSG Networks: Clean Knicks/NBA Pitch to info@msgnetworks.com
+- SNY: Clean Knicks/NBA Pitch to info1@sny.tv
+- CBS News New York: Civic or publication-safe pitch to desk@cbs2ny.com
+- CBS Sports Communications: Publication-safe pitch to JSabatelle@cbs.com only as a clean FYI
+- Gothamist / WNYC: Civic Pitch to tips@gothamist.com with caution that response is not guaranteed
+- The City Reporter: Civic Pitch to tips@thecityreporter.nyc or contact page
+- Defector: Defector Pitch to pitches@defector.com
+- NY1: Civic Pitch through https://ny1.com/nyc/all-boroughs/about-us/contact-us
+- City & State New York: Civic Pitch to editor@cityandstateny.com
+
+## Hold / Manual Verification
+
+- PlaymakerHQ: no verified direct pitch route; use Roommates or Medium Rare first.
+- NBA Media Central: media registration only, not a pitch route.
+- New York Knicks official site: no public editorial pitch route verified.
+- New York Daily News: no verified official route from current research.
+- ESPN Press Room: hold unless framed as an appropriate working-media inquiry.
+- The Athletic: no verified official pitch route; use only verified individual writer route.
+- amNewYork: no verified official pitch route from current research.
+- New York Focus: possible civic pitch form, but lower fit for this sports-culture essay.
+
+## Completion Rules
+
+- After each drafted or filled item, update `distribution/outreach-tracker.csv` to `ready for review`, `drafted`, `sent`, `blocked`, `needs login`, or `no verified route`.
+- Add follow-up dates only after a message is actually sent.
+- Never include off-grid editorial credit or private collaborator references.
+- Do not use X or Threads.
