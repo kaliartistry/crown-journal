@@ -90,10 +90,13 @@ Recommended Reel asset:
 Notes:
 - Includes MP3 snippets from the article narration.
 - Uses the brighter enhanced crown/fitted image so the hat and crown shadow read on mobile.
+- Uses a sharper New York hook without naming extra players: `This is not Miami`, `Other stars seemed afraid of this place`, and `They wanted New York's lights. They did not want New York's smoke.`
 
 Caption:
 
 New York did not know everything. New York knew enough.
+
+They wanted New York's lights. They did not want New York's smoke.
 
 This is about pressure, accountability, Knicks history, and why the city understood Brunson before the national conversation caught up.
 

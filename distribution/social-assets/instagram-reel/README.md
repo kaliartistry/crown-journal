@@ -7,19 +7,19 @@ Primary upload asset:
 Specs:
 
 - 1080x1920 vertical MP4
-- 59.4 seconds
+- 2:05.7
 - H.264 video
 - AAC audio, 48 kHz stereo
+- Original intro hit: `crown-journal-intro-hit.m4a`
 - Subtle motion pass:
   - slow push/pan on the fitted/crown image
   - soft dissolves between narration sections
   - light waveform pulse
 - Uses MP3 snippets from the article narration:
   - `assets/audio/crown-journal-brunson-literal-01.mp3`
-  - `assets/audio/crown-journal-brunson-literal-03.mp3`
-  - `assets/audio/crown-journal-brunson-literal-17.mp3`
+  - `assets/audio/crown-journal-brunson-literal-07.mp3`
 - Companion audio review file: `crown-journal-reel-snippets.m4a`
-- Review stills: `audio-frame-01.png` through `audio-frame-04.png`
+- Review stills: `audio-frame-01.png` through `audio-frame-05.png`
 - Enhanced visual source: `crown-fitted-hero-enhanced.png`
 - No Knicks/NBA logos
 - No player likeness

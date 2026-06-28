@@ -28,6 +28,8 @@ Full essay: "Heavy Is The Crown. Brunson Wanted The Smoke."
 
 New York did not know everything. New York knew enough.
 
+They wanted New York's lights. They did not want New York's smoke.
+
 This is about pressure, accountability, Knicks history, and why the city understood Brunson before the national conversation caught up.
 
 It is long-form, and it is built to be listened to. Hit the article link, press Listen near the top, and let the full piece play.
