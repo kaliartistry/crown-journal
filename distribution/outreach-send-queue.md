@@ -6,6 +6,9 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/
 Rule:
 Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Schedule. Substack remains draft-only.
 
+Browser limitation:
+The in-app browser appears to stage one visible form tab at a time. Review, submit, or skip the current prepared form before Codex opens the next public form. Use Chrome when multiple logged-in tabs or Gmail/social drafts are needed.
+
 ## First Wave
 
 1. Roommates Show / Roommates Live
@@ -31,9 +34,9 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 4. Posting and Toasting
    - Route: https://www.postingandtoasting.com/contact
    - Pitch: Raw Knicks Pitch
-   - Action: review filled pitch form in the in-app browser, then decide whether to submit.
+   - Action: after the active Knicks Fan TV form is reviewed, open and fill the story-pitch form in the in-app browser.
    - Review note: do not message multiple writers separately before using the form.
-   - Status: filled for review; Submit button not clicked.
+   - Status: route verified; not currently staged because the active browser form is Knicks Fan TV.
 
 5. Knicks Film School
    - Route: https://knicksfilmschool.substack.com/about
