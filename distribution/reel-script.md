@@ -7,9 +7,10 @@ Asset:
 Format:
 
 - 1080x1920 vertical MP4
-- 59.38 seconds
+- 59.4 seconds
 - Includes MP3 snippets from the article narration
 - Uses an enhanced Crown Journal crown/fitted/concrete visual so the hat and crown shadow read clearly on mobile
+- Uses restrained motion only: slow hero-image push/pan, soft dissolves, and a subtle waveform pulse
 
 ## Audio Sources
 

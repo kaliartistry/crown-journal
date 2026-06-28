@@ -7,9 +7,13 @@ Primary upload asset:
 Specs:
 
 - 1080x1920 vertical MP4
-- 59.38 seconds
+- 59.4 seconds
 - H.264 video
 - AAC audio, 48 kHz stereo
+- Subtle motion pass:
+  - slow push/pan on the fitted/crown image
+  - soft dissolves between narration sections
+  - light waveform pulse
 - Uses MP3 snippets from the article narration:
   - `assets/audio/crown-journal-brunson-literal-01.mp3`
   - `assets/audio/crown-journal-brunson-literal-03.mp3`
