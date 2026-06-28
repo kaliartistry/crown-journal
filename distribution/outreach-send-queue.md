@@ -16,6 +16,12 @@ The in-app browser appears to stage one visible form tab at a time. Review, subm
 - Gmail drafts created, not sent: Hell Gate, The Ringer, New York Post, Newsday Opinion, SNY, Gothamist/WNYC, Defector, City & State New York, MSG Networks, CBS News New York, The City Reporter.
 - Next safest actions: review/send Gmail drafts first, then handle CAPTCHA/form issues manually, then use logged-in Chrome for Roommates, KFS, Strickland, LinkedIn, Instagram, Facebook, Reddit, Medium, and Substack draft-only.
 
+## Chrome Handoff - 2026-06-28
+
+- Posting and Toasting: Chrome story-pitch form filled and waiting for user CAPTCHA/final Submit.
+- Knicks Fan TV: Chrome contact form filled and waiting for user CAPTCHA/final Send.
+- Do not open another automated form in Chrome until the user submits or closes these two handoff tabs.
+
 ## First Wave
 
 1. Roommates Show / Roommates Live
