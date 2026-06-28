@@ -1,0 +1,123 @@
+{
+  "audio_source": "distribution\\social-assets\\instagram-reel\\crown-journal-reel-snippets.m4a",
+  "intro_effect_removed": true,
+  "trim_start_seconds": 2.05,
+  "final_audio": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\article-narration-snippets-clean.m4a",
+  "final_video": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\crown-journal-reel-01-brunson-smoke.mp4",
+  "cover_frame": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\cover-frame.png",
+  "contact_sheet": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\review-contact-sheet-clean.jpg",
+  "duration_seconds": 123.61,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "cards": [
+    {
+      "id": "crown",
+      "start": 0.0,
+      "end": 14.0,
+      "head": "Heavy is the crown,\nbut he wore it like a fitted.",
+      "body": "The Crown Journal audio preview."
+    },
+    {
+      "id": "cities",
+      "start": 14.0,
+      "end": 31.0,
+      "head": "This is not L.A.\nThis is not Miami.\nThis is not Boston.",
+      "body": "This is New York. This is the Knicks."
+    },
+    {
+      "id": "garden",
+      "start": 31.0,
+      "end": 49.0,
+      "head": "The Garden can smell fear\nbefore the ball hits the rim.",
+      "body": "That pressure is the point."
+    },
+    {
+      "id": "afraid",
+      "start": 49.0,
+      "end": 70.0,
+      "head": "As a Knicks fan, it seemed\nlike they were afraid.",
+      "body": "Afraid of the Garden. Afraid of the back page."
+    },
+    {
+      "id": "smoke",
+      "start": 70.0,
+      "end": 88.0,
+      "head": "They wanted New York's lights.\nThey did not want New York's smoke.",
+      "body": "That is the argument."
+    },
+    {
+      "id": "brooklyn",
+      "start": 88.0,
+      "end": 103.0,
+      "head": "Brooklyn is not the Knicks.",
+      "body": "The Nets are not even the little brother."
+    },
+    {
+      "id": "weight",
+      "start": 103.0,
+      "end": 115.0,
+      "head": "Same city.\nDifferent weight.",
+      "body": "You can hoop in New York without carrying New York."
+    },
+    {
+      "id": "end",
+      "start": 115.0,
+      "end": 124.6053125,
+      "head": "Read or listen to\nthe full essay.",
+      "body": "Heavy Is The Crown. Brunson Wanted The Smoke."
+    }
+  ],
+  "layout_locked": "All card text is pre-rendered into fixed-position layers; only waveform bars animate.",
+  "static_text_band_check": [
+    {
+      "card": "crown",
+      "frames_checked": 25,
+      "max_mean_pixel_delta": 0.323,
+      "max_abs_pixel_delta": 9
+    },
+    {
+      "card": "cities",
+      "frames_checked": 31,
+      "max_mean_pixel_delta": 0.359,
+      "max_abs_pixel_delta": 10
+    },
+    {
+      "card": "garden",
+      "frames_checked": 33,
+      "max_mean_pixel_delta": 0.319,
+      "max_abs_pixel_delta": 12
+    },
+    {
+      "card": "afraid",
+      "frames_checked": 39,
+      "max_mean_pixel_delta": 0.348,
+      "max_abs_pixel_delta": 11
+    },
+    {
+      "card": "smoke",
+      "frames_checked": 33,
+      "max_mean_pixel_delta": 0.288,
+      "max_abs_pixel_delta": 10
+    },
+    {
+      "card": "brooklyn",
+      "frames_checked": 27,
+      "max_mean_pixel_delta": 0.226,
+      "max_abs_pixel_delta": 11
+    },
+    {
+      "card": "weight",
+      "frames_checked": 21,
+      "max_mean_pixel_delta": 0.23,
+      "max_abs_pixel_delta": 9
+    },
+    {
+      "card": "end",
+      "frames_checked": 15,
+      "max_mean_pixel_delta": 0.254,
+      "max_abs_pixel_delta": 10
+    }
+  ],
+  "static_text_band_result": "pass"
+}

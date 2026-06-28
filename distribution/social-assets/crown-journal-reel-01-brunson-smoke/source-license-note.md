@@ -1,8 +1,8 @@
 # Source And License Note
 
 - Visual: original Crown Journal/Kali Artistry generated crown/fitted/concrete visual from existing project assets.
-- Voiceover: generated with Microsoft Edge neural TTS via `edge-tts`, using `en-US-ChristopherNeural`, rate `-4%`, and pitch `-2Hz`, from `voiceover-script.txt`.
-- Intro swell: generated locally from synthesized tones/noise; no copyrighted music or third-party samples used.
+- Voiceover: sourced from the existing article narration snippet package and exported as `article-narration-snippets-clean.m4a`.
+- Intro effect: removed from the corrected export.
 - Video motion: static visual foundation with animated waveform bars only; no panning image motion.
 - No official Knicks/NBA logos, player likeness, game footage, X/Twitter, Threads, or private collaborator references are used.
-- For paid ads or boosted usage, confirm Microsoft Edge TTS commercial usage terms before promotion.
+- For paid ads or boosted usage, confirm the usage terms for the original article narration source before promotion.

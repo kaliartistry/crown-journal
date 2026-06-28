@@ -6,60 +6,54 @@
     "fps": 30
   },
   "motion": "Static crown/fitted/concrete visual with animated waveform bars only.",
-  "duration_seconds": 113.7,
+  "duration_seconds": 123.61,
   "cards": [
     {
-      "id": "brand",
-      "start": 0.0,
-      "end": 3.0,
-      "text": "THE CROWN JOURNAL / BY KALI ARTISTRY / AUDIO PREVIEW"
-    },
-    {
-      "id": "lights",
-      "start": 3.0,
-      "end": 12.0,
-      "text": "They wanted New York's lights. / Brunson wanted the smoke."
-    },
-    {
       "id": "crown",
-      "start": 12.0,
-      "end": 25.0,
+      "start": 0.0,
+      "end": 14.0,
       "text": "Heavy is the crown, but he wore it like a fitted."
     },
     {
+      "id": "cities",
+      "start": 14.0,
+      "end": 31.0,
+      "text": "This is not L.A. / This is not Miami. / This is not Boston."
+    },
+    {
+      "id": "garden",
+      "start": 31.0,
+      "end": 49.0,
+      "text": "The Garden can smell fear before the ball hits the rim."
+    },
+    {
       "id": "afraid",
-      "start": 25.0,
-      "end": 64.0,
+      "start": 49.0,
+      "end": 70.0,
       "text": "As a Knicks fan, it seemed like they were afraid."
     },
     {
-      "id": "nets",
-      "start": 64.0,
-      "end": 79.0,
-      "text": "The Nets are not even the little brother."
+      "id": "smoke",
+      "start": 70.0,
+      "end": 88.0,
+      "text": "They wanted New York's lights. / They did not want New York's smoke."
     },
     {
-      "id": "relative",
-      "start": 79.0,
-      "end": 87.0,
-      "text": "They are the distant relative."
+      "id": "brooklyn",
+      "start": 88.0,
+      "end": 103.0,
+      "text": "Brooklyn is not the Knicks."
     },
     {
       "id": "weight",
-      "start": 87.0,
-      "end": 96.0,
+      "start": 103.0,
+      "end": 115.0,
       "text": "Same city. Different weight."
     },
     {
-      "id": "hoop",
-      "start": 96.0,
-      "end": 108.0,
-      "text": "You can hoop in New York without carrying New York."
-    },
-    {
       "id": "end",
-      "start": 108.0,
-      "end": 113.7,
+      "start": 115.0,
+      "end": 123.61,
       "text": "Read or listen to the full essay. / Heavy Is The Crown. Brunson Wanted The Smoke. / journal.kaliartistry.com"
     }
   ]
