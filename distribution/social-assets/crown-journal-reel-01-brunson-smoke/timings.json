@@ -1,0 +1,66 @@
+{
+  "project": "The Crown Journal Reel 1 - Brunson Smoke",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "motion": "Static crown/fitted/concrete visual with animated waveform bars only.",
+  "duration_seconds": 113.7,
+  "cards": [
+    {
+      "id": "brand",
+      "start": 0.0,
+      "end": 3.0,
+      "text": "THE CROWN JOURNAL / BY KALI ARTISTRY / AUDIO PREVIEW"
+    },
+    {
+      "id": "lights",
+      "start": 3.0,
+      "end": 12.0,
+      "text": "They wanted New York's lights. / Brunson wanted the smoke."
+    },
+    {
+      "id": "crown",
+      "start": 12.0,
+      "end": 25.0,
+      "text": "Heavy is the crown, but he wore it like a fitted."
+    },
+    {
+      "id": "afraid",
+      "start": 25.0,
+      "end": 64.0,
+      "text": "As a Knicks fan, it seemed like they were afraid."
+    },
+    {
+      "id": "nets",
+      "start": 64.0,
+      "end": 79.0,
+      "text": "The Nets are not even the little brother."
+    },
+    {
+      "id": "relative",
+      "start": 79.0,
+      "end": 87.0,
+      "text": "They are the distant relative."
+    },
+    {
+      "id": "weight",
+      "start": 87.0,
+      "end": 96.0,
+      "text": "Same city. Different weight."
+    },
+    {
+      "id": "hoop",
+      "start": 96.0,
+      "end": 108.0,
+      "text": "You can hoop in New York without carrying New York."
+    },
+    {
+      "id": "end",
+      "start": 108.0,
+      "end": 113.7,
+      "text": "Read or listen to the full essay. / Heavy Is The Crown. Brunson Wanted The Smoke. / journal.kaliartistry.com"
+    }
+  ]
+}
