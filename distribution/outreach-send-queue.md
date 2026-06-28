@@ -9,6 +9,13 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 Browser limitation:
 The in-app browser appears to stage one visible form tab at a time. Review, submit, or skip the current prepared form before Codex opens the next public form. Use Chrome when multiple logged-in tabs or Gmail/social drafts are needed.
 
+## Tonight Status - 2026-06-27
+
+- Knicks Fan TV: attempted through public form; hCaptcha appeared and no success confirmation was shown. Needs user/CAPTCHA action or alternate route.
+- Posting and Toasting: attempted through story-pitch form; no success confirmation was shown. Retry manually or in Chrome.
+- Gmail drafts created, not sent: Hell Gate, The Ringer, New York Post, Newsday Opinion, SNY, Gothamist/WNYC, Defector, City & State New York, MSG Networks, CBS News New York, The City Reporter.
+- Next safest actions: review/send Gmail drafts first, then handle CAPTCHA/form issues manually, then use logged-in Chrome for Roommates, KFS, Strickland, LinkedIn, Instagram, Facebook, Reddit, Medium, and Substack draft-only.
+
 ## First Wave
 
 1. Roommates Show / Roommates Live
