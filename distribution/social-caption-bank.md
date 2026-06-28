@@ -18,11 +18,21 @@ Read the full essay at the link in bio.
 
 ## Instagram Short
 
-The ring was the receipt.
+Game 4 was the crown.
 
-The pressure was the crown.
+Game 5 was the receipt.
 
 Full essay: "Heavy Is The Crown. Brunson Wanted The Smoke."
+
+## Instagram Reel Caption
+
+New York did not know everything. New York knew enough.
+
+This is about pressure, accountability, Knicks history, and why the city understood Brunson before the national conversation caught up.
+
+Full essay + narrated version at the link in bio.
+
+#Knicks #NewYorkKnicks #JalenBrunson #NBAFinals #NewYorkSports #SportsWriting #TheCrownJournal
 
 ## LinkedIn
 

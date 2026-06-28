@@ -38,7 +38,8 @@ Tracked links live in `distribution/tracked-links.md`. Use those links for promo
 
 ## Instagram
 
-- Use the carousel copy deck and reel script.
+- Use the review-ready Reel MP4 at `distribution/social-assets/instagram-reel/crown-journal-instagram-reel.mp4`.
+- Keep the carousel deck available as a backup/static post option.
 - Use the Instagram bio or story tracked link where available.
 - Use original no-logo/no-likeness visuals.
 

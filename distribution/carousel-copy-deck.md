@@ -27,7 +27,7 @@ Slide 8:
 Game 4 was the crown. Game 5 was the receipt.
 
 Slide 9:
-The ring was the receipt. The pressure was the crown.
+Read + listen at journal.kaliartistry.com.
 
 ## Design Guardrails
 

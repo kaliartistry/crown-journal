@@ -83,17 +83,20 @@ https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?ut
 
 ## Instagram Caption
 
-Heavy is the crown, but Jalen Brunson wore it like a fitted.
+Recommended Reel asset:
 
-New York did not know everything.
-New York knew enough.
+`distribution/social-assets/instagram-reel/crown-journal-instagram-reel.mp4`
 
-I wrote this because the championship was not just about basketball. It was about pressure, accountability, Knicks history, sacrifice, public joy, and why this city recognized Brunson before the country caught up.
+Caption:
 
-Full essay at the link in bio.
+New York did not know everything. New York knew enough.
+
+This is about pressure, accountability, Knicks history, and why the city understood Brunson before the national conversation caught up.
+
+Full essay + narrated version at the link in bio.
 
 Suggested hashtags:
-#Knicks #NewYorkKnicks #NewYork #SportsCulture #BasketballWriting #KaliArtistry
+#Knicks #NewYorkKnicks #JalenBrunson #NBAFinals #NewYorkSports #SportsWriting #TheCrownJournal
 
 Bio/story link:
 https://journal.kaliartistry.com/heavy-is-the-crown-brunson-wanted-the-smoke/?utm_source=instagram&utm_medium=bio&utm_campaign=crown_journal_launch

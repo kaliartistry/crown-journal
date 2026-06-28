@@ -18,13 +18,15 @@ The in-app browser appears to stage one visible form tab at a time. Review, subm
 
 ## Chrome Handoff - 2026-06-28
 
-- Posting and Toasting: Chrome story-pitch form filled and waiting for user CAPTCHA/final Submit.
-- Knicks Fan TV: Chrome contact form filled and waiting for user CAPTCHA/final Send.
+- Posting and Toasting: blocked. User confirmed the SB Nation/Posting and Toasting form still would not submit even after signup; clicking Submit produced no result.
+- Knicks Fan TV: submitted. User confirmed the form was sent 2026-06-28.
 - Roommates Show: Chrome contact form filled and waiting for user final Submit.
-- Jalen Brunson official team: Chrome contact form filled under Media & Press Requests and waiting for user final Submit.
+- Jalen Brunson official team: submitted. User confirmed the official team form was sent 2026-06-28.
 - SNY: email to info1@sny.tv bounced with recipient address rejected / access denied; find an alternate SNY route before retrying.
 - Gmail outreach confirmed sent: Hell Gate, The Ringer, New York Post, Newsday Opinion, MSG Networks, CBS News New York, Gothamist/WNYC, The City Reporter, Defector, and City & State New York.
-- Do not open another automated form in Chrome until the user submits or closes these handoff tabs.
+- LinkedIn: completed by user.
+- Not yet done or needs verification: Instagram, Reddit, Medium, Tumblr, Substack draft-only, Pinterest, Facebook.
+- Do not open another automated form in Chrome until any remaining handoff tabs are submitted or closed.
 
 ## First Wave
 
