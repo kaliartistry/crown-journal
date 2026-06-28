@@ -11,14 +11,16 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 1. Roommates Show / Roommates Live
    - Route: https://www.roommateslive.com/contact
    - Pitch: Roommates Pitch
-   - Action: open contact route or official social route, fill message, stop before submit.
+   - Action: use official Instagram, Facebook, or YouTube route in logged-in Chrome; stop before final send.
    - Review note: do not ask them to publish. Ask them to read, react, or consider for the Roommates audience.
+   - Status: contact page opened; no direct form or public email exposed.
 
 2. Knicks Fan TV
    - Route: https://shop.knicksfantv.com/pages/contact
    - Pitch: Raw Knicks Pitch
-   - Action: fill contact form, stop before submit.
+   - Action: review filled contact form in the in-app browser, then decide whether to submit.
    - Review note: strongest fan-media first-wave target.
+   - Status: filled for review; Send button not clicked.
 
 3. Knicks Fan TV Newsletter
    - Route: https://knicksfantv.beehiiv.com/
@@ -29,8 +31,9 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 4. Posting and Toasting
    - Route: https://www.postingandtoasting.com/contact
    - Pitch: Raw Knicks Pitch
-   - Action: use pitch/contact form, stop before submit.
+   - Action: review filled pitch form in the in-app browser, then decide whether to submit.
    - Review note: do not message multiple writers separately before using the form.
+   - Status: filled for review; Submit button not clicked.
 
 5. Knicks Film School
    - Route: https://knicksfilmschool.substack.com/about
@@ -41,8 +44,9 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 6. The Strickland
    - Route: https://www.thestrick.land/
    - Pitch: Raw Knicks Pitch
-   - Action: use homepage contact/contribution form, stop before submit.
-   - Review note: do not use X.
+   - Action: use official Instagram, Bluesky, or YouTube route in logged-in Chrome; stop before final send.
+   - Review note: do not use X or Threads.
+   - Status: no public contact form found in the in-app browser.
 
 7. Hell Gate
    - Route: mailto:tips@hellgatenyc.com
@@ -90,6 +94,7 @@ Codex fills drafts/forms only. Kali reviews before Send, Submit, Publish, or Sch
 ## Hold / Manual Verification
 
 - PlaymakerHQ: no verified direct pitch route; use Roommates or Medium Rare first.
+- Medium Rare: contact page says a form exists, but the embedded form did not load in the in-app browser; try Chrome/manual review.
 - NBA Media Central: media registration only, not a pitch route.
 - New York Knicks official site: no public editorial pitch route verified.
 - New York Daily News: no verified official route from current research.
