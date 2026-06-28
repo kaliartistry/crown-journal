@@ -1,123 +1,1424 @@
 {
-  "audio_source": "distribution\\social-assets\\instagram-reel\\crown-journal-reel-snippets.m4a",
-  "intro_effect_removed": true,
-  "trim_start_seconds": 2.05,
-  "final_audio": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\article-narration-snippets-clean.m4a",
-  "final_video": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\crown-journal-reel-01-brunson-smoke.mp4",
-  "cover_frame": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\cover-frame.png",
-  "contact_sheet": "distribution\\social-assets\\crown-journal-reel-01-brunson-smoke\\review-contact-sheet-clean.jpg",
-  "duration_seconds": 123.61,
-  "width": 1080,
-  "height": 1920,
-  "fps": 30,
-  "cards": [
+  "version": "openai-narration-contained-v3",
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30
+  },
+  "duration_seconds": 100.53,
+  "audio_source": "openai-reel-narration.mp3",
+  "transcript_source": "openai-reel-transcript.json",
+  "source_image": "distribution\\social-assets\\instagram-reel\\crown-fitted-hero-enhanced.png",
+  "source_image_size": [
+    1672,
+    941
+  ],
+  "sharp_full_image_rect": [
+    40,
+    550,
+    1000,
+    563
+  ],
+  "full_source_image_visible": true,
+  "motion_policy": "No pan, no zoom, no sliding text. Only waveform bars animate.",
+  "layout_qc": [
     {
-      "id": "crown",
+      "id": "lights",
+      "text": "They wanted New York's lights.\nBrunson wanted the smoke.",
+      "font_size": 62,
+      "lines": [
+        "They wanted New York's",
+        "lights.",
+        "Brunson wanted the smoke."
+      ],
+      "text_width": 891,
+      "text_height": 208,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          248,
+          868,
+          308
+        ],
+        [
+          86,
+          328,
+          284,
+          388
+        ],
+        [
+          86,
+          408,
+          977,
+          456
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          238
+        ],
+        [
+          86,
+          318
+        ],
+        [
+          86,
+          398
+        ]
+      ],
+      "fits": true,
       "start": 0.0,
-      "end": 14.0,
-      "head": "Heavy is the crown,\nbut he wore it like a fitted.",
-      "body": "The Crown Journal audio preview."
+      "end": 5.78,
+      "phrase_end": 4.8
     },
     {
-      "id": "cities",
-      "start": 14.0,
-      "end": 31.0,
-      "head": "This is not L.A.\nThis is not Miami.\nThis is not Boston.",
-      "body": "This is New York. This is the Knicks."
+      "id": "crown",
+      "text": "Heavy is the crown,\nbut he wore it like a fitted.",
+      "font_size": 66,
+      "lines": [
+        "Heavy is the crown,",
+        "but he wore it like a fitted."
+      ],
+      "text_width": 890,
+      "text_height": 137,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          284,
+          750,
+          348
+        ],
+        [
+          85,
+          369,
+          975,
+          421
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          273
+        ],
+        [
+          86,
+          358
+        ]
+      ],
+      "fits": true,
+      "start": 5.81,
+      "end": 10.36,
+      "phrase_end": 6.8
+    },
+    {
+      "id": "la",
+      "text": "This is not L.A.",
+      "font_size": 66,
+      "lines": [
+        "This is not L.A."
+      ],
+      "text_width": 508,
+      "text_height": 51,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          327,
+          594,
+          378
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          316
+        ]
+      ],
+      "fits": true,
+      "start": 10.39,
+      "end": 15.1,
+      "phrase_end": 11.58
+    },
+    {
+      "id": "miami",
+      "text": "This is not Miami.",
+      "font_size": 66,
+      "lines": [
+        "This is not Miami."
+      ],
+      "text_width": 611,
+      "text_height": 51,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          327,
+          697,
+          378
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          316
+        ]
+      ],
+      "fits": true,
+      "start": 15.13,
+      "end": 21.78,
+      "phrase_end": 16.3
+    },
+    {
+      "id": "boston",
+      "text": "This is not Boston.",
+      "font_size": 66,
+      "lines": [
+        "This is not Boston."
+      ],
+      "text_width": 631,
+      "text_height": 51,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          327,
+          717,
+          378
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          316
+        ]
+      ],
+      "fits": true,
+      "start": 21.81,
+      "end": 28.06,
+      "phrase_end": 23.14
+    },
+    {
+      "id": "ny",
+      "text": "This is New York.\nThis is the Knicks.",
+      "font_size": 66,
+      "lines": [
+        "This is New York.",
+        "This is the Knicks."
+      ],
+      "text_width": 620,
+      "text_height": 123,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          291,
+          679,
+          342
+        ],
+        [
+          86,
+          363,
+          706,
+          414
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          280
+        ],
+        [
+          86,
+          352
+        ]
+      ],
+      "fits": true,
+      "start": 28.09,
+      "end": 30.94,
+      "phrase_end": 30.58
     },
     {
       "id": "garden",
-      "start": 31.0,
-      "end": 49.0,
-      "head": "The Garden can smell fear\nbefore the ball hits the rim.",
-      "body": "That pressure is the point."
+      "text": "The Garden can smell fear\nbefore the ball hits the rim.",
+      "font_size": 66,
+      "lines": [
+        "The Garden can smell fear",
+        "before the ball hits the",
+        "rim."
+      ],
+      "text_width": 892,
+      "text_height": 196,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          254,
+          978,
+          305
+        ],
+        [
+          85,
+          326,
+          849,
+          378
+        ],
+        [
+          86,
+          399,
+          232,
+          450
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          243
+        ],
+        [
+          86,
+          315
+        ],
+        [
+          86,
+          388
+        ]
+      ],
+      "fits": true,
+      "start": 30.97,
+      "end": 35.54,
+      "phrase_end": 32.94
+    },
+    {
+      "id": "excuses",
+      "text": "The biggest names had\nevery excuse in the book.",
+      "font_size": 66,
+      "lines": [
+        "The biggest names had",
+        "every excuse in the book."
+      ],
+      "text_width": 850,
+      "text_height": 149,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          278,
+          857,
+          342
+        ],
+        [
+          86,
+          363,
+          936,
+          427
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          267
+        ],
+        [
+          86,
+          352
+        ]
+      ],
+      "fits": true,
+      "start": 35.57,
+      "end": 44.82,
+      "phrase_end": 38.28
+    },
+    {
+      "id": "pressure",
+      "text": "The pressure was too much.\nCool.",
+      "font_size": 66,
+      "lines": [
+        "The pressure was too",
+        "much.",
+        "Cool."
+      ],
+      "text_width": 719,
+      "text_height": 208,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          248,
+          805,
+          312
+        ],
+        [
+          86,
+          333,
+          300,
+          384
+        ],
+        [
+          86,
+          405,
+          262,
+          456
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          237
+        ],
+        [
+          86,
+          322
+        ],
+        [
+          86,
+          394
+        ]
+      ],
+      "fits": true,
+      "start": 44.85,
+      "end": 49.34,
+      "phrase_end": 47.16
     },
     {
       "id": "afraid",
-      "start": 49.0,
-      "end": 70.0,
-      "head": "As a Knicks fan, it seemed\nlike they were afraid.",
-      "body": "Afraid of the Garden. Afraid of the back page."
+      "text": "As a Knicks fan,\nit seemed like they were afraid.",
+      "font_size": 66,
+      "lines": [
+        "As a Knicks fan,",
+        "it seemed like they were",
+        "afraid."
+      ],
+      "text_width": 815,
+      "text_height": 220,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          84,
+          242,
+          627,
+          305
+        ],
+        [
+          86,
+          326,
+          901,
+          390
+        ],
+        [
+          86,
+          411,
+          313,
+          462
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          231
+        ],
+        [
+          86,
+          315
+        ],
+        [
+          86,
+          400
+        ]
+      ],
+      "fits": true,
+      "start": 49.37,
+      "end": 53.14,
+      "phrase_end": 52.28
+    },
+    {
+      "id": "backpage",
+      "text": "Afraid of the Garden.\nAfraid of the back page.",
+      "font_size": 66,
+      "lines": [
+        "Afraid of the Garden.",
+        "Afraid of the back page."
+      ],
+      "text_width": 802,
+      "text_height": 136,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          84,
+          284,
+          806,
+          335
+        ],
+        [
+          84,
+          356,
+          886,
+          420
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          273
+        ],
+        [
+          86,
+          345
+        ]
+      ],
+      "fits": true,
+      "start": 53.17,
+      "end": 62.98,
+      "phrase_end": 56.62
     },
     {
       "id": "smoke",
-      "start": 70.0,
-      "end": 88.0,
-      "head": "They wanted New York's lights.\nThey did not want New York's smoke.",
-      "body": "That is the argument."
+      "text": "They wanted New York's lights.\nThey did not want New York's smoke.",
+      "font_size": 58,
+      "lines": [
+        "They wanted New York's",
+        "lights.",
+        "They did not want New York's",
+        "smoke."
+      ],
+      "text_width": 889,
+      "text_height": 275,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          215,
+          819,
+          272
+        ],
+        [
+          86,
+          292,
+          271,
+          349
+        ],
+        [
+          86,
+          369,
+          975,
+          426
+        ],
+        [
+          86,
+          446,
+          301,
+          490
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          205
+        ],
+        [
+          86,
+          282
+        ],
+        [
+          86,
+          359
+        ],
+        [
+          86,
+          436
+        ]
+      ],
+      "fits": true,
+      "start": 63.01,
+      "end": 69.26,
+      "phrase_end": 67.18
     },
     {
       "id": "brooklyn",
-      "start": 88.0,
-      "end": 103.0,
-      "head": "Brooklyn is not the Knicks.",
-      "body": "The Nets are not even the little brother."
+      "text": "Brooklyn is not\nthe Knicks.",
+      "font_size": 66,
+      "lines": [
+        "Brooklyn is not",
+        "the Knicks."
+      ],
+      "text_width": 521,
+      "text_height": 136,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          284,
+          607,
+          348
+        ],
+        [
+          86,
+          369,
+          468,
+          420
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          273
+        ],
+        [
+          86,
+          358
+        ]
+      ],
+      "fits": true,
+      "start": 69.29,
+      "end": 70.68,
+      "phrase_end": 70.16
+    },
+    {
+      "id": "little-brother",
+      "text": "The Nets are not even\nthe little brother.",
+      "font_size": 66,
+      "lines": [
+        "The Nets are not even",
+        "the little brother."
+      ],
+      "text_width": 733,
+      "text_height": 124,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          290,
+          819,
+          341
+        ],
+        [
+          86,
+          362,
+          672,
+          414
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          279
+        ],
+        [
+          86,
+          351
+        ]
+      ],
+      "fits": true,
+      "start": 70.71,
+      "end": 72.82,
+      "phrase_end": 72.34
+    },
+    {
+      "id": "relative",
+      "text": "They are the\ndistant relative.",
+      "font_size": 66,
+      "lines": [
+        "They are the",
+        "distant relative."
+      ],
+      "text_width": 535,
+      "text_height": 136,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          284,
+          505,
+          348
+        ],
+        [
+          86,
+          369,
+          621,
+          420
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          273
+        ],
+        [
+          86,
+          358
+        ]
+      ],
+      "fits": true,
+      "start": 72.85,
+      "end": 75.06,
+      "phrase_end": 74.34
     },
     {
       "id": "weight",
-      "start": 103.0,
-      "end": 115.0,
-      "head": "Same city.\nDifferent weight.",
-      "body": "You can hoop in New York without carrying New York."
+      "text": "Same city.\nDifferent weight.",
+      "font_size": 66,
+      "lines": [
+        "Same city.",
+        "Different weight."
+      ],
+      "text_width": 578,
+      "text_height": 149,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          278,
+          433,
+          342
+        ],
+        [
+          86,
+          363,
+          664,
+          427
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          267
+        ],
+        [
+          86,
+          352
+        ]
+      ],
+      "fits": true,
+      "start": 75.09,
+      "end": 77.12,
+      "phrase_end": 76.66
+    },
+    {
+      "id": "hoop",
+      "text": "You can hoop in New York\nwithout carrying New York.",
+      "font_size": 66,
+      "lines": [
+        "You can hoop in New York",
+        "without carrying New",
+        "York."
+      ],
+      "text_width": 901,
+      "text_height": 221,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          84,
+          242,
+          985,
+          306
+        ],
+        [
+          85,
+          327,
+          821,
+          391
+        ],
+        [
+          84,
+          412,
+          274,
+          463
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          231
+        ],
+        [
+          86,
+          316
+        ],
+        [
+          86,
+          401
+        ]
+      ],
+      "fits": true,
+      "start": 77.15,
+      "end": 80.66,
+      "phrase_end": 80.26
+    },
+    {
+      "id": "different",
+      "text": "The Knicks are different.\nThe Garden is different.",
+      "font_size": 66,
+      "lines": [
+        "The Knicks are different.",
+        "The Garden is different."
+      ],
+      "text_width": 847,
+      "text_height": 123,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          291,
+          933,
+          342
+        ],
+        [
+          86,
+          363,
+          899,
+          414
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          280
+        ],
+        [
+          86,
+          352
+        ]
+      ],
+      "fits": true,
+      "start": 80.69,
+      "end": 84.02,
+      "phrase_end": 83.46
+    },
+    {
+      "id": "chose",
+      "text": "That orange and blue\nis different.",
+      "font_size": 66,
+      "lines": [
+        "That orange and blue",
+        "is different."
+      ],
+      "text_width": 721,
+      "text_height": 136,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          284,
+          807,
+          348
+        ],
+        [
+          86,
+          369,
+          483,
+          420
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          273
+        ],
+        [
+          86,
+          358
+        ]
+      ],
+      "fits": true,
+      "start": 84.05,
+      "end": 90.26,
+      "phrase_end": 85.68
     },
     {
       "id": "end",
-      "start": 115.0,
-      "end": 124.6053125,
-      "head": "Read or listen to\nthe full essay.",
-      "body": "Heavy Is The Crown. Brunson Wanted The Smoke."
+      "text": "Read or listen to\nthe full essay.\nHeavy Is The Crown.\nBrunson Wanted The Smoke.",
+      "font_size": 58,
+      "lines": [
+        "Read or listen to",
+        "the full essay.",
+        "Heavy Is The Crown.",
+        "Brunson Wanted The Smoke."
+      ],
+      "text_width": 874,
+      "text_height": 262,
+      "safe_box": [
+        72,
+        212,
+        1008,
+        493
+      ],
+      "boxes": [
+        [
+          86,
+          221,
+          577,
+          265
+        ],
+        [
+          86,
+          285,
+          493,
+          342
+        ],
+        [
+          86,
+          362,
+          703,
+          419
+        ],
+        [
+          86,
+          439,
+          960,
+          483
+        ]
+      ],
+      "origins": [
+        [
+          86,
+          211
+        ],
+        [
+          86,
+          275
+        ],
+        [
+          86,
+          352
+        ],
+        [
+          86,
+          429
+        ]
+      ],
+      "fits": true,
+      "start": 90.29,
+      "end": 100.53,
+      "phrase_end": 91.82
     }
   ],
-  "layout_locked": "All card text is pre-rendered into fixed-position layers; only waveform bars animate.",
-  "static_text_band_check": [
+  "sync_report": [
     {
-      "card": "crown",
-      "frames_checked": 25,
-      "max_mean_pixel_delta": 0.323,
-      "max_abs_pixel_delta": 9
+      "id": "lights",
+      "display_text": "They wanted New York's lights.\nBrunson wanted the smoke.",
+      "matched_phrase": "They wanted New York's lights Brunson wanted the smoke",
+      "phrase_start": 0.0,
+      "card_start": 0.0,
+      "start_delta_seconds": 0.0,
+      "card_end": 5.78
     },
     {
-      "card": "cities",
-      "frames_checked": 31,
-      "max_mean_pixel_delta": 0.359,
-      "max_abs_pixel_delta": 10
+      "id": "crown",
+      "display_text": "Heavy is the crown,\nbut he wore it like a fitted.",
+      "matched_phrase": "Heavy is the crown",
+      "phrase_start": 5.84,
+      "card_start": 5.81,
+      "start_delta_seconds": 0.03,
+      "card_end": 10.36
     },
     {
-      "card": "garden",
-      "frames_checked": 33,
-      "max_mean_pixel_delta": 0.319,
+      "id": "la",
+      "display_text": "This is not L.A.",
+      "matched_phrase": "This is not L.A.",
+      "phrase_start": 10.42,
+      "card_start": 10.39,
+      "start_delta_seconds": 0.03,
+      "card_end": 15.1
+    },
+    {
+      "id": "miami",
+      "display_text": "This is not Miami.",
+      "matched_phrase": "This is not Miami",
+      "phrase_start": 15.16,
+      "card_start": 15.13,
+      "start_delta_seconds": 0.03,
+      "card_end": 21.78
+    },
+    {
+      "id": "boston",
+      "display_text": "This is not Boston.",
+      "matched_phrase": "This is not Boston",
+      "phrase_start": 21.84,
+      "card_start": 21.81,
+      "start_delta_seconds": 0.03,
+      "card_end": 28.06
+    },
+    {
+      "id": "ny",
+      "display_text": "This is New York.\nThis is the Knicks.",
+      "matched_phrase": "This is New York This is the Knicks",
+      "phrase_start": 28.12,
+      "card_start": 28.09,
+      "start_delta_seconds": 0.03,
+      "card_end": 30.94
+    },
+    {
+      "id": "garden",
+      "display_text": "The Garden can smell fear\nbefore the ball hits the rim.",
+      "matched_phrase": "The Garden can smell fear",
+      "phrase_start": 31.0,
+      "card_start": 30.97,
+      "start_delta_seconds": 0.03,
+      "card_end": 35.54
+    },
+    {
+      "id": "excuses",
+      "display_text": "The biggest names had\nevery excuse in the book.",
+      "matched_phrase": "For years the biggest names had every excuse",
+      "phrase_start": 35.6,
+      "card_start": 35.57,
+      "start_delta_seconds": 0.03,
+      "card_end": 44.82
+    },
+    {
+      "id": "pressure",
+      "display_text": "The pressure was too much.\nCool.",
+      "matched_phrase": "The pressure was too much Cool",
+      "phrase_start": 44.88,
+      "card_start": 44.85,
+      "start_delta_seconds": 0.03,
+      "card_end": 49.34
+    },
+    {
+      "id": "afraid",
+      "display_text": "As a Knicks fan,\nit seemed like they were afraid.",
+      "matched_phrase": "As a Knicks fan it seemed like they were afraid",
+      "phrase_start": 49.4,
+      "card_start": 49.37,
+      "start_delta_seconds": 0.03,
+      "card_end": 53.14
+    },
+    {
+      "id": "backpage",
+      "display_text": "Afraid of the Garden.\nAfraid of the back page.",
+      "matched_phrase": "Afraid of the Garden turning on them Afraid of the back page",
+      "phrase_start": 53.2,
+      "card_start": 53.17,
+      "start_delta_seconds": 0.03,
+      "card_end": 62.98
+    },
+    {
+      "id": "smoke",
+      "display_text": "They wanted New York's lights.\nThey did not want New York's smoke.",
+      "matched_phrase": "They wanted New York's lights They did not want New York's smoke",
+      "phrase_start": 63.04,
+      "card_start": 63.01,
+      "start_delta_seconds": 0.03,
+      "card_end": 69.26
+    },
+    {
+      "id": "brooklyn",
+      "display_text": "Brooklyn is not\nthe Knicks.",
+      "matched_phrase": "Brooklyn is not the Knicks",
+      "phrase_start": 69.32,
+      "card_start": 69.29,
+      "start_delta_seconds": 0.03,
+      "card_end": 70.68
+    },
+    {
+      "id": "little-brother",
+      "display_text": "The Nets are not even\nthe little brother.",
+      "matched_phrase": "The Nets are not even the little brother",
+      "phrase_start": 70.74,
+      "card_start": 70.71,
+      "start_delta_seconds": 0.03,
+      "card_end": 72.82
+    },
+    {
+      "id": "relative",
+      "display_text": "They are the\ndistant relative.",
+      "matched_phrase": "They are the distant relative",
+      "phrase_start": 72.88,
+      "card_start": 72.85,
+      "start_delta_seconds": 0.03,
+      "card_end": 75.06
+    },
+    {
+      "id": "weight",
+      "display_text": "Same city.\nDifferent weight.",
+      "matched_phrase": "Same city Different weight",
+      "phrase_start": 75.12,
+      "card_start": 75.09,
+      "start_delta_seconds": 0.03,
+      "card_end": 77.12
+    },
+    {
+      "id": "hoop",
+      "display_text": "You can hoop in New York\nwithout carrying New York.",
+      "matched_phrase": "You can hoop in New York without carrying New York",
+      "phrase_start": 77.18,
+      "card_start": 77.15,
+      "start_delta_seconds": 0.03,
+      "card_end": 80.66
+    },
+    {
+      "id": "different",
+      "display_text": "The Knicks are different.\nThe Garden is different.",
+      "matched_phrase": "The Knicks are different The Garden is different",
+      "phrase_start": 80.72,
+      "card_start": 80.69,
+      "start_delta_seconds": 0.03,
+      "card_end": 84.02
+    },
+    {
+      "id": "chose",
+      "display_text": "That orange and blue\nis different.",
+      "matched_phrase": "That orange and blue is different",
+      "phrase_start": 84.08,
+      "card_start": 84.05,
+      "start_delta_seconds": 0.03,
+      "card_end": 90.26
+    },
+    {
+      "id": "end",
+      "display_text": "Read or listen to\nthe full essay.\nHeavy Is The Crown.\nBrunson Wanted The Smoke.",
+      "matched_phrase": "Read or listen to the full essay",
+      "phrase_start": 90.32,
+      "card_start": 90.29,
+      "start_delta_seconds": 0.03,
+      "card_end": 100.53
+    }
+  ],
+  "hero_crop_checks": [
+    {
+      "id": "lights",
+      "mid": 2.89,
+      "hero_mean_delta": 2.042,
+      "hero_max_delta": 96
+    },
+    {
+      "id": "crown",
+      "mid": 8.085,
+      "hero_mean_delta": 2.042,
+      "hero_max_delta": 96
+    },
+    {
+      "id": "la",
+      "mid": 12.745,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "miami",
+      "mid": 18.455,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "boston",
+      "mid": 24.935,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "ny",
+      "mid": 29.515,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "garden",
+      "mid": 33.255,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "excuses",
+      "mid": 40.195,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "pressure",
+      "mid": 47.095,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "afraid",
+      "mid": 51.255,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "backpage",
+      "mid": 58.075,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "smoke",
+      "mid": 66.135,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "brooklyn",
+      "mid": 69.985,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "little-brother",
+      "mid": 71.765,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "relative",
+      "mid": 73.955,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "weight",
+      "mid": 76.105,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "hoop",
+      "mid": 78.905,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "different",
+      "mid": 82.355,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "chose",
+      "mid": 87.155,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    },
+    {
+      "id": "end",
+      "mid": 95.41,
+      "hero_mean_delta": 1.998,
+      "hero_max_delta": 98
+    }
+  ],
+  "static_text_panel_checks": [
+    {
+      "id": "lights",
+      "frames_checked": 16,
+      "max_mean_pixel_delta": 0.006,
+      "max_abs_pixel_delta": 3
+    },
+    {
+      "id": "crown",
+      "frames_checked": 12,
+      "max_mean_pixel_delta": 0.135,
       "max_abs_pixel_delta": 12
     },
     {
-      "card": "afraid",
-      "frames_checked": 39,
-      "max_mean_pixel_delta": 0.348,
-      "max_abs_pixel_delta": 11
+      "id": "la",
+      "frames_checked": 13,
+      "max_mean_pixel_delta": 0.002,
+      "max_abs_pixel_delta": 4
     },
     {
-      "card": "smoke",
-      "frames_checked": 33,
-      "max_mean_pixel_delta": 0.288,
+      "id": "miami",
+      "frames_checked": 19,
+      "max_mean_pixel_delta": 0.051,
       "max_abs_pixel_delta": 10
     },
     {
-      "card": "brooklyn",
-      "frames_checked": 27,
-      "max_mean_pixel_delta": 0.226,
-      "max_abs_pixel_delta": 11
+      "id": "boston",
+      "frames_checked": 18,
+      "max_mean_pixel_delta": 0.027,
+      "max_abs_pixel_delta": 8
     },
     {
-      "card": "weight",
-      "frames_checked": 21,
-      "max_mean_pixel_delta": 0.23,
+      "id": "ny",
+      "frames_checked": 7,
+      "max_mean_pixel_delta": 0.007,
+      "max_abs_pixel_delta": 7
+    },
+    {
+      "id": "garden",
+      "frames_checked": 13,
+      "max_mean_pixel_delta": 0.147,
+      "max_abs_pixel_delta": 24
+    },
+    {
+      "id": "excuses",
+      "frames_checked": 27,
+      "max_mean_pixel_delta": 0.139,
+      "max_abs_pixel_delta": 12
+    },
+    {
+      "id": "pressure",
+      "frames_checked": 12,
+      "max_mean_pixel_delta": 0.007,
+      "max_abs_pixel_delta": 60
+    },
+    {
+      "id": "afraid",
+      "frames_checked": 10,
+      "max_mean_pixel_delta": 0.14,
       "max_abs_pixel_delta": 9
     },
     {
-      "card": "end",
-      "frames_checked": 15,
-      "max_mean_pixel_delta": 0.254,
-      "max_abs_pixel_delta": 10
+      "id": "backpage",
+      "frames_checked": 28,
+      "max_mean_pixel_delta": 0.139,
+      "max_abs_pixel_delta": 16
+    },
+    {
+      "id": "smoke",
+      "frames_checked": 18,
+      "max_mean_pixel_delta": 0.178,
+      "max_abs_pixel_delta": 11
+    },
+    {
+      "id": "brooklyn",
+      "frames_checked": 3,
+      "max_mean_pixel_delta": 0.006,
+      "max_abs_pixel_delta": 5
+    },
+    {
+      "id": "little-brother",
+      "frames_checked": 5,
+      "max_mean_pixel_delta": 0.009,
+      "max_abs_pixel_delta": 6
+    },
+    {
+      "id": "relative",
+      "frames_checked": 5,
+      "max_mean_pixel_delta": 0.006,
+      "max_abs_pixel_delta": 7
+    },
+    {
+      "id": "weight",
+      "frames_checked": 5,
+      "max_mean_pixel_delta": 0.006,
+      "max_abs_pixel_delta": 6
+    },
+    {
+      "id": "hoop",
+      "frames_checked": 9,
+      "max_mean_pixel_delta": 0.008,
+      "max_abs_pixel_delta": 8
+    },
+    {
+      "id": "different",
+      "frames_checked": 9,
+      "max_mean_pixel_delta": 0.154,
+      "max_abs_pixel_delta": 15
+    },
+    {
+      "id": "chose",
+      "frames_checked": 17,
+      "max_mean_pixel_delta": 0.007,
+      "max_abs_pixel_delta": 7
+    },
+    {
+      "id": "end",
+      "frames_checked": 30,
+      "max_mean_pixel_delta": 0.19,
+      "max_abs_pixel_delta": 11
     }
   ],
-  "static_text_band_result": "pass"
+  "qa_thresholds": {
+    "hero_mean_delta_max": 16.0,
+    "text_mean_delta_max": 0.8,
+    "card_start_delta_max_seconds": 0.25
+  },
+  "result": "pass"
 }

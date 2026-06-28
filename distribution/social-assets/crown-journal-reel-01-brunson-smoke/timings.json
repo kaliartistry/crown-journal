@@ -5,56 +5,188 @@
     "height": 1920,
     "fps": 30
   },
-  "motion": "Static crown/fitted/concrete visual with animated waveform bars only.",
-  "duration_seconds": 123.61,
+  "motion": "No pan, no zoom, no sliding text. Only waveform bars animate.",
+  "duration_seconds": 100.53,
   "cards": [
     {
-      "id": "crown",
-      "start": 0.0,
-      "end": 14.0,
-      "text": "Heavy is the crown, but he wore it like a fitted."
+      "id": "lights",
+      "display_text": "They wanted New York's lights.\nBrunson wanted the smoke.",
+      "matched_phrase": "They wanted New York's lights Brunson wanted the smoke",
+      "phrase_start": 0.0,
+      "card_start": 0.0,
+      "start_delta_seconds": 0.0,
+      "card_end": 5.78
     },
     {
-      "id": "cities",
-      "start": 14.0,
-      "end": 31.0,
-      "text": "This is not L.A. / This is not Miami. / This is not Boston."
+      "id": "crown",
+      "display_text": "Heavy is the crown,\nbut he wore it like a fitted.",
+      "matched_phrase": "Heavy is the crown",
+      "phrase_start": 5.84,
+      "card_start": 5.81,
+      "start_delta_seconds": 0.03,
+      "card_end": 10.36
+    },
+    {
+      "id": "la",
+      "display_text": "This is not L.A.",
+      "matched_phrase": "This is not L.A.",
+      "phrase_start": 10.42,
+      "card_start": 10.39,
+      "start_delta_seconds": 0.03,
+      "card_end": 15.1
+    },
+    {
+      "id": "miami",
+      "display_text": "This is not Miami.",
+      "matched_phrase": "This is not Miami",
+      "phrase_start": 15.16,
+      "card_start": 15.13,
+      "start_delta_seconds": 0.03,
+      "card_end": 21.78
+    },
+    {
+      "id": "boston",
+      "display_text": "This is not Boston.",
+      "matched_phrase": "This is not Boston",
+      "phrase_start": 21.84,
+      "card_start": 21.81,
+      "start_delta_seconds": 0.03,
+      "card_end": 28.06
+    },
+    {
+      "id": "ny",
+      "display_text": "This is New York.\nThis is the Knicks.",
+      "matched_phrase": "This is New York This is the Knicks",
+      "phrase_start": 28.12,
+      "card_start": 28.09,
+      "start_delta_seconds": 0.03,
+      "card_end": 30.94
     },
     {
       "id": "garden",
-      "start": 31.0,
-      "end": 49.0,
-      "text": "The Garden can smell fear before the ball hits the rim."
+      "display_text": "The Garden can smell fear\nbefore the ball hits the rim.",
+      "matched_phrase": "The Garden can smell fear",
+      "phrase_start": 31.0,
+      "card_start": 30.97,
+      "start_delta_seconds": 0.03,
+      "card_end": 35.54
+    },
+    {
+      "id": "excuses",
+      "display_text": "The biggest names had\nevery excuse in the book.",
+      "matched_phrase": "For years the biggest names had every excuse",
+      "phrase_start": 35.6,
+      "card_start": 35.57,
+      "start_delta_seconds": 0.03,
+      "card_end": 44.82
+    },
+    {
+      "id": "pressure",
+      "display_text": "The pressure was too much.\nCool.",
+      "matched_phrase": "The pressure was too much Cool",
+      "phrase_start": 44.88,
+      "card_start": 44.85,
+      "start_delta_seconds": 0.03,
+      "card_end": 49.34
     },
     {
       "id": "afraid",
-      "start": 49.0,
-      "end": 70.0,
-      "text": "As a Knicks fan, it seemed like they were afraid."
+      "display_text": "As a Knicks fan,\nit seemed like they were afraid.",
+      "matched_phrase": "As a Knicks fan it seemed like they were afraid",
+      "phrase_start": 49.4,
+      "card_start": 49.37,
+      "start_delta_seconds": 0.03,
+      "card_end": 53.14
+    },
+    {
+      "id": "backpage",
+      "display_text": "Afraid of the Garden.\nAfraid of the back page.",
+      "matched_phrase": "Afraid of the Garden turning on them Afraid of the back page",
+      "phrase_start": 53.2,
+      "card_start": 53.17,
+      "start_delta_seconds": 0.03,
+      "card_end": 62.98
     },
     {
       "id": "smoke",
-      "start": 70.0,
-      "end": 88.0,
-      "text": "They wanted New York's lights. / They did not want New York's smoke."
+      "display_text": "They wanted New York's lights.\nThey did not want New York's smoke.",
+      "matched_phrase": "They wanted New York's lights They did not want New York's smoke",
+      "phrase_start": 63.04,
+      "card_start": 63.01,
+      "start_delta_seconds": 0.03,
+      "card_end": 69.26
     },
     {
       "id": "brooklyn",
-      "start": 88.0,
-      "end": 103.0,
-      "text": "Brooklyn is not the Knicks."
+      "display_text": "Brooklyn is not\nthe Knicks.",
+      "matched_phrase": "Brooklyn is not the Knicks",
+      "phrase_start": 69.32,
+      "card_start": 69.29,
+      "start_delta_seconds": 0.03,
+      "card_end": 70.68
+    },
+    {
+      "id": "little-brother",
+      "display_text": "The Nets are not even\nthe little brother.",
+      "matched_phrase": "The Nets are not even the little brother",
+      "phrase_start": 70.74,
+      "card_start": 70.71,
+      "start_delta_seconds": 0.03,
+      "card_end": 72.82
+    },
+    {
+      "id": "relative",
+      "display_text": "They are the\ndistant relative.",
+      "matched_phrase": "They are the distant relative",
+      "phrase_start": 72.88,
+      "card_start": 72.85,
+      "start_delta_seconds": 0.03,
+      "card_end": 75.06
     },
     {
       "id": "weight",
-      "start": 103.0,
-      "end": 115.0,
-      "text": "Same city. Different weight."
+      "display_text": "Same city.\nDifferent weight.",
+      "matched_phrase": "Same city Different weight",
+      "phrase_start": 75.12,
+      "card_start": 75.09,
+      "start_delta_seconds": 0.03,
+      "card_end": 77.12
+    },
+    {
+      "id": "hoop",
+      "display_text": "You can hoop in New York\nwithout carrying New York.",
+      "matched_phrase": "You can hoop in New York without carrying New York",
+      "phrase_start": 77.18,
+      "card_start": 77.15,
+      "start_delta_seconds": 0.03,
+      "card_end": 80.66
+    },
+    {
+      "id": "different",
+      "display_text": "The Knicks are different.\nThe Garden is different.",
+      "matched_phrase": "The Knicks are different The Garden is different",
+      "phrase_start": 80.72,
+      "card_start": 80.69,
+      "start_delta_seconds": 0.03,
+      "card_end": 84.02
+    },
+    {
+      "id": "chose",
+      "display_text": "That orange and blue\nis different.",
+      "matched_phrase": "That orange and blue is different",
+      "phrase_start": 84.08,
+      "card_start": 84.05,
+      "start_delta_seconds": 0.03,
+      "card_end": 90.26
     },
     {
       "id": "end",
-      "start": 115.0,
-      "end": 123.61,
-      "text": "Read or listen to the full essay. / Heavy Is The Crown. Brunson Wanted The Smoke. / journal.kaliartistry.com"
+      "display_text": "Read or listen to\nthe full essay.\nHeavy Is The Crown.\nBrunson Wanted The Smoke.",
+      "matched_phrase": "Read or listen to the full essay",
+      "phrase_start": 90.32,
+      "card_start": 90.29,
+      "start_delta_seconds": 0.03,
+      "card_end": 100.53
     }
   ]
 }
